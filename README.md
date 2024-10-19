@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Store Products
+
+This project is a React-based application that displays a list of products.
+
+## Technologies Used
+
+- **React** - For building the user interface.
+- **Bootstrap** - For styling and layout.
+
+## How to Run the Project
+
 ## Available Scripts
 
 In the project directory, you can run:
